@@ -1,0 +1,9 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Explore Joburg</string>
+    <string name="category_history">History</string>
+    <string name="category_food">Food</string>
+    <string name="category_outdoor">Outdoor</string>
+
+
+</resources>
